@@ -1,5 +1,3 @@
-# Fraudulent-Claim-Detection-ML
-
 
 # Fraudulent Claim Detection
 
